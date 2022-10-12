@@ -4,7 +4,7 @@ Repositório criado para realização de projeto de ciências de dados sobre sa�
 
 ## Colaboradores
 
-Ítalo [@](https://github.com/)
+Ítalo [@ITA-LOW](https://github.com/)
 
 Josafat [@](https://github.com/)
 
